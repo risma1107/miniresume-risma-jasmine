@@ -20,13 +20,15 @@ A REST API built using FastAPI to manage candidate resumes with persistent datab
 
 ## Project Structure
 
+```
 miniresume-risma-jasmine/
-├── main.py #main FastAPI application
-├── requirements.txt #python dependencies
-├── database.py # Database configuration
-├── models.py # SQLAlchemy data models
-├── candidates.db
+├── main.py                   #main FastAPI application
+├── requirements.txt          #python dependencies
+├── database.py               # Database configuration
+├── models.py                 # SQLAlchemy data models
+├── .gitignore
 └── README.md
+```
 
 ## Installation steps
 
